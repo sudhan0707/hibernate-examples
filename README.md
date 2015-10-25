@@ -1,5 +1,5 @@
 # hibernate-examples
-Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an ORM framework, hibernate is concerned with data persistence as it applies to relational databases. In this repo you will examples for understanding Relationship mappings such as.
+Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an ORM framework, hibernate is concerned with data persistence as it applies to relational databases. In this repo you will find examples for understanding Relationship mappings such as.
 
 				1. One To One Mapping
 				2. One To Many Mapping
