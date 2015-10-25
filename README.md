@@ -16,6 +16,7 @@ Hibernate ORM enables developers to more easily write applications whose data ou
 ## Project Setup
 
 1. Check out the repository using below command
+
 	```git
 		https://github.com/sudhan0707/hibernate-examples.git
 	```
